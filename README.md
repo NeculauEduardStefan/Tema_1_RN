@@ -11,7 +11,7 @@ Rezolvarea unui sistem de 3 ecuatii liniare cu 3 necunoscute, fara numpy, folosi
 ## Cum se ruleaza
 
 1. Puneti `system.txt` in acelasi folder cu `rezolvare_tema_1.py`.
-2. Ruleaza:
+2. Rulati:
 
 ```
 python rezolvare_tema_1.py
